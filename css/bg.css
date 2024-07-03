@@ -1,0 +1,7 @@
+.contact-bg{
+    background: url(../images/bg-about.jpg);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    z-index: 1;
+}
